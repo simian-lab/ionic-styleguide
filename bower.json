@@ -1,0 +1,22 @@
+{
+  "name": "ionic-styleguide",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simian-lab/ionic-styleguide",
+  "authors": [
+    "Simian <dev@simian.co>"
+  ],
+  "description": "An Ionic Framework module to create a simple style guide for your product. This will make it easier to see all your design elements in one place so you can customize them easily.",
+  "keywords": [
+    "ionic",
+    "styleguide"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
