@@ -1,0 +1,5 @@
+{
+  "name": "styleguide",
+  "gulpStartupTasks": ["copy"],
+  "app_id": ""
+}
