@@ -1,6 +1,6 @@
 {
   "name": "ionic-styleguide",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/simian-lab/ionic-styleguide",
   "authors": [
     "Simian <dev@simian.co>"
@@ -16,7 +16,8 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "test-app"
   ],
   "dependencies": {}
 }
